@@ -12,3 +12,4 @@ Tech Stack: Node.js, Express.js, MongoDB Atlas, Mongoose, EJS, Bootstrap, Passpo
 ![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(160).png?raw=true)
 ![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(161).png?raw=true)
 ![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(162).png?raw=true)
+![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(163).png?raw=true)
