@@ -9,7 +9,7 @@ Embedded interactive maps using Mapbox API for location-based property search.
 Enhanced user experience with connect-flash for feedback messaging and cookie-parser for session parsing. 
 Deployed on Render with continuous integration through GitHub.
 Tech Stack: Node.js, Express.js, MongoDB Atlas, Mongoose, EJS, Bootstrap, Passport.js, Cloudinary, Multer, Mapbox API, Cookie-Parser, Connect-Flash
-![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(160).png?raw=true)
+![image](C:\Users\adars\Downloads\don-kaveen-93IYznJPkOA-unsplash.jpg)
 ![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(161).png?raw=true)
 ![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(162).png?raw=true)
 ![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(163).png?raw=true)
