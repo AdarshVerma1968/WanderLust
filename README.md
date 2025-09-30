@@ -10,11 +10,11 @@ Enhanced user experience with connect-flash for feedback messaging and cookie-pa
 Deployed on Render with continuous integration through GitHub.
 Tech Stack: Node.js, Express.js, MongoDB Atlas, Mongoose, EJS, Bootstrap, Passport.js, Cloudinary, Multer, Mapbox API, Cookie-Parser, Connect-Flash
 
-WanderLust Listing Page
+Listing Page
 ![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(160).png?raw=true)
-WanderLust SignUp Page
+SignUp Page
 ![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(161).png?raw=true)
-WanderLust Login Page
+Login Page
 ![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(162).png?raw=true)
-WanderLust Create New Listing Page
+Create New Listing Page
 ![image](https://github.com/AdarshVerma1968/WanderLust/blob/main/Screenshot%20(163).png?raw=true)
